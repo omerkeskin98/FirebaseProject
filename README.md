@@ -1,6 +1,3 @@
-Sure! Here's a comprehensive README file for your Swift UIKit app that you've developed:
-
----
 
 # FirebaseProject
 
