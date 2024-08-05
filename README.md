@@ -72,3 +72,13 @@ A social media application built with Swift and UIKit, designed for seamless int
 - [Firebase](https://firebase.google.com/) for backend services.
 - [SnapKit](https://github.com/SnapKit/SnapKit) for constraints.
 - [Photos Framework](https://developer.apple.com/documentation/photokit) for photo library integration.
+
+## Images
+<img width="493" alt="Screenshot 2024-08-05 at 11 35 28" src="https://github.com/user-attachments/assets/94857c1d-7a17-4890-97b1-ec876b8c17d2">
+<img width="493" alt="Screenshot 2024-08-05 at 11 35 39" src="https://github.com/user-attachments/assets/232c00fb-b6f0-4752-89a2-7b26de21aa50">
+<img width="493" alt="Screenshot 2024-08-05 at 11 35 46" src="https://github.com/user-attachments/assets/8dd1cfd8-4079-480c-a9ef-c9ae89bb1145">
+<img width="493" alt="Screenshot 2024-08-05 at 11 35 52" src="https://github.com/user-attachments/assets/3822f10f-0ef7-4415-abf1-715f9b270f50">
+<img width="493" alt="Screenshot 2024-08-05 at 11 35 58" src="https://github.com/user-attachments/assets/b8582fe3-2023-4881-8988-f3dd73d22ff9">
+
+
+
